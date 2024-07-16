@@ -1,0 +1,8 @@
+
+Red   : #FF2727
+Black : #000000
+White : #FFFFFF
+Blue  : #00BAA4
+Gray  : #596558 , #737171
+Border Gray: #C0C0C0
+yellow: #FEFF00
